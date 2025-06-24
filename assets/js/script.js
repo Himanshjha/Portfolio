@@ -250,7 +250,13 @@ srtop.reveal('.experience .timeline .container', { interval: 400 });
 srtop.reveal('.contact .container', { delay: 400 });
 srtop.reveal('.contact .container .form-group', { delay: 400 });
 const projects = [
-    
+    {
+    name: "Personal Portfolio",
+    desc: "A fully responsive personal portfolio built using HTML, CSS, and JavaScript. Showcases projects, skills, and contact info.",
+    image: "portfolio",
+    view: "https://himanshjha.github.io/Portfolio/",
+    code: "https://github.com/Himanshjha/Portfolio"
+  },
   {
     name: "Instagram Clone",
     desc: "A responsive frontend clone of Instagram built using HTML, CSS, and JavaScript.",
