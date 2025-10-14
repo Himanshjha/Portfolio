@@ -250,12 +250,27 @@ srtop.reveal('.experience .timeline .container', { interval: 400 });
 srtop.reveal('.contact .container', { delay: 400 });
 srtop.reveal('.contact .container .form-group', { delay: 400 });
 const projects = [
+
     {
     name: "Personal Portfolio",
     desc: "A fully responsive personal portfolio built using HTML, CSS, and JavaScript. Showcases projects, skills, and contact info.",
     image: "portfolio",
     view: "https://himanshjha.github.io/Portfolio/",
     code: "https://github.com/Himanshjha/Portfolio"
+  },
+    {
+  name: "MeetWise – AI Meeting Notes",
+  desc: "Upload, summarize, edit & share meeting notes effortlessly.",
+  image: "ai-meeting-notes",
+  view: "https://ai-meeting-notes-three.vercel.app/",
+  code: "https://github.com/Himanshjha/ai-meeting-notes"
+},
+    {
+    name: "AI Calendar Assistant",
+    desc: "An intelligent calendar assistant built with FastAPI, LangGraph, and Google Calendar API. It understands natural language queries and automatically checks or schedules events.",
+    image: "ai-calendar-assistant",
+    view: "https://ai-calendar-assistant-himanshujha.streamlit.app/",
+    code: "https://github.com/Himanshjha/ai-calendar-assistant"
   },
   {
     name: "Instagram Clone",
