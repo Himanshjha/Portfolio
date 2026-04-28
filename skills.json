@@ -1,15 +1,15 @@
 [
   {
     "name": "React.js",
-    "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/react-native.png"
+    "icon": "https://img.icons8.com/color/48/react-native.png"
   },
   {
     "name": "Next.js",
-    "icon": "https://img.icons8.com/fluency/48/nextjs.png"
+    "icon": "https://img.icons8.com/color/48/nextjs.png"
   },
   {
     "name": "TailwindCSS",
-    "icon": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg"
+    "icon": "https://img.icons8.com/color/48/tailwindcss.png"
   },
   {
     "name": "HTML5",
@@ -33,7 +33,7 @@
   },
   {
     "name": "Express.js",
-    "icon": "https://img.icons8.com/ios-filled/48/000000/express-js.png"
+    "icon": "https://img.icons8.com/ios/48/000000/express-js.png"
   },
   {
     "name": "FastAPI",
@@ -61,7 +61,7 @@
   },
   {
     "name": "GitHub",
-    "icon": "https://img.icons8.com/glyph-neue/48/ffffff/github.png"
+    "icon": "https://img.icons8.com/ios-glyphs/48/ffffff/github.png"
   },
   {
     "name": "Docker",
@@ -69,15 +69,15 @@
   },
   {
     "name": "Postman",
-    "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/postman-api.png"
+    "icon": "https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/external-postman-is-the-only-complete-api-development-environment-logo-color-tal-revivo.png"
   },
   {
     "name": "LLM APIs",
-    "icon": "https://img.icons8.com/external-flaticons-lineal-color-flat-icons/48/artificial-intelligence.png"
+    "icon": "https://img.icons8.com/fluency/48/artificial-intelligence.png"
   },
   {
     "name": "LangChain",
-    "icon": "https://img.icons8.com/external-soft-fill-juicy-fish/48/artificial-intelligence.png"
+    "icon": "https://img.icons8.com/external-flat-icons-inmotus-design/48/external-ai-artificial-intelligence-flat-icons-inmotus-design.png"
   },
   {
     "name": "Prompt Engineering",
